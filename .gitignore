@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+venv/
+.env
+
+# Node (React + Vite)
+node_modules/
+dist/
+.env
